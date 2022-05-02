@@ -1,2 +1,2 @@
-# Rotatecomputerscreen
-An app that rotates a screen by 360
+# age caculator
+An app that calculates your age
